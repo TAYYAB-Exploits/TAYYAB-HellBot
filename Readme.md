@@ -1,17 +1,14 @@
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-
-
-
 
 # TAYYAB HELL-MD 🔥
 
 ![Bot Image](https://raw.githubusercontent.com/TAYYAB-Exploits/TAYYAB-HellBot/main/media/HELL.jpg)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 Welcome to **TAYYAB HELL-BOT**, a powerful WhatsApp Termux bot developed by **Tayyab Exploits**. 🚀  
 This bot is fully tested on Termux, Linux (Kali, Ubuntu), Panels, and other terminal environments.  
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## 🌟 About TAYYAB HELL-BOT
 
@@ -20,7 +17,7 @@ Whether you want **auto typing, media download, group management**, or just **fu
 
 **Perfect for**: Termux users, Linux enthusiasts, developers, and bot lovers who want a full-featured WhatsApp bot.  
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## 📦 Features
 
@@ -30,7 +27,7 @@ Whether you want **auto typing, media download, group management**, or just **fu
 - Media folder support for images, stickers, and icons.  
 - Fully customizable and modular.  
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 📹 Video Tutorials
 
@@ -38,7 +35,7 @@ Whether you want **auto typing, media download, group management**, or just **fu
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Tayyab%20ExploitZ-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TayyabExploitZ)
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## 🚀 Installation Guide (Termux)
 
@@ -83,7 +80,7 @@ npm start
 node --watch index.js
 ```
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 📹 Video Tutorials
 
@@ -93,7 +90,7 @@ node --watch index.js
 
 
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 🌐 Social Media
 
@@ -107,7 +104,7 @@ Instagram: Tayyab ExploitZ IG
 
 
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 📂 Media Folder
 
@@ -115,7 +112,7 @@ All images, icons, and media files are in the media/ folder.
 Example: media/HELL.jpg is used as the bot banner shown above.
 
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 📝 Menus in TAYYAB HELL-BOT
 
@@ -144,7 +141,7 @@ Anime menu
 
 
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 💻 Supported Platforms
 
@@ -158,7 +155,7 @@ Other terminals with Node.js support
 
 
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ⚡ Additional Information
 
@@ -170,7 +167,7 @@ Supports auto-reload for continuous uptime.
 
 
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 📝 Disclaimer
 
@@ -182,7 +179,7 @@ Use at your own risk.
 
 
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ❤️ Support & Contributions
 
@@ -194,12 +191,12 @@ Contributions via pull requests are welcome.
 
 
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## 📄 License
 This project is licensed under the **MIT License**.  
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ✨💀🔥 **Enjoy TAYYAB HELL-MD, your ultimate WhatsApp automation & fun bot!** 🌹  
 
