@@ -1,3 +1,14 @@
+<h1 align="center">
+  <span id="text"></span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=TAYYAB+HELL-MD;BY;TAYYAB+EXPLOITS" alt="Typing SVG" />
+</p>
+
+
+
+
 # TAYYAB HELL-MD 🔥
 
 ![Bot Image](https://raw.githubusercontent.com/TAYYAB-Exploits/TAYYAB-HellBot/main/media/HELL.jpg)
