@@ -87,7 +87,7 @@ node --watch index.js
 
 📹 Video Tutorials
 
-[![Watch Video](https://img.shields.io/badge/Watch%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/p13hMgAlznk?si=5MKZQm0ockqob1KQ)
+[![Watch Video](https://img.shields.io/badge/Watch%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/4EK99IE4lTE)
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Tayyab%20ExploitZ-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TayyabExploitZ)
 
