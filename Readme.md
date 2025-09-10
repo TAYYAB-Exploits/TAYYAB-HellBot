@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=TAYYAB+HELL-MD;BY;TAYYAB+EXPLOITS" alt="Animated Typing SVG" />
+</p>
 
 # TAYYAB HELL-MD 🔥
 
