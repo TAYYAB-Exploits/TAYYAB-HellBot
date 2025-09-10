@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=DARK-SILENCE-MD;+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+SILENTLOVER432;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=TAYYAB+HELL-MD;CREATED+BY+TAYYAB+EXPLOITS;A+MULTI+DEVICE+WHATSAPP+BOT;UNLIMITED+USAGE" alt="Animated Typing SVG" />
 </p>
 
 
-
-# TAYYAB HELL-MD 🔥
 
 ![Bot Image](https://raw.githubusercontent.com/TAYYAB-Exploits/TAYYAB-HellBot/main/media/HELL.jpg)
 
