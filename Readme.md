@@ -34,7 +34,7 @@ Whether you want **auto typing, media download, group management**, or just **fu
 
 📹 Video Tutorials
 
-[![Watch Video](https://img.shields.io/badge/Watch%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/p13hMgAlznk?si=5MKZQm0ockqob1KQ)
+[![Watch Video](https://img.shields.io/badge/Watch%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/4EK99IE4lTE)
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Tayyab%20ExploitZ-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TayyabExploitZ)
 
@@ -206,7 +206,7 @@ This project is licensed under the **MIT License**.
 [![GitHub Stars](https://img.shields.io/github/stars/TAYYAB-Exploits/TAYYAB-HellBot?style=for-the-badge)](https://github.com/TAYYAB-Exploits/TAYYAB-HellBot/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/TAYYAB-Exploits/TAYYAB-HellBot?style=for-the-badge)](https://github.com/TAYYAB-Exploits/TAYYAB-HellBot/network/members)
 [![YouTube](https://img.shields.io/badge/YouTube-Tayyab%20ExploitZ-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@TayyabExploitZ)
-[![Watch Video](https://img.shields.io/badge/Watch%20Video-Deploy%20Guide-red?style=for-the-badge&logo=youtube)](https://youtu.be/p13hMgAlznk?si=5MKZQm0ockqob1KQ)
+[![Watch Video](https://img.shields.io/badge/Watch%20Video-Deploy%20Guide-red?style=for-the-badge&logo=youtube)](https://youtu.be/4EK99IE4lTE)
 
 💫🚀 **Let the bot do the magic in your WhatsApp groups!**
 
