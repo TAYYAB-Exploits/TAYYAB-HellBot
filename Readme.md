@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=TAYYAB+HELL-MD;BY;TAYYAB+EXPLOITS" alt="Typing SVG" />
-</p>
+-----------
 
 
 
