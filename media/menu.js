@@ -16,17 +16,18 @@ const uptimeStr = `${hours}h ${minutes}m ${seconds}s`
 
 // Status box to show at menu start & each category start
 const statusBox = `
-╭━━〔𝙏𝘼𝙔𝙔𝘼𝘽 𝙃𝙀𝙇𝙇-𝙈𝐃〕━╮
-┃ 🔥 Mode: PRIVATE | FULL POWER
-┃ 💀 Status: HELL PROTOCOL ACTIVE
-┃ 👑 Owner: 𝕋𝔸𝕐𝕐𝔸𝔹 ☠️
-┃ ⚡ Version: 1.0.0 (Hell Build)
-┃ ⏳ Uptime: ${uptimeStr}
-┃ 📅 Date: ${date}
-┃ 🕒 Time: ${time}
-┃ 📌 Commands: 222+ Loaded
-┃ 📱 Device: ANDROID-HELLCORE
-╰━━━━━━━━━━━━━━━━━╯
+╭━━━〔⚙️ 𝗧𝗔𝗬𝗬𝗔𝗕 𝗛𝗘𝗟𝗟-𝗠𝗗━━━━━╮
+┃ 🔥 𝗠𝗼𝗱𝗲: PRIVATE | ⚡FULL POWER 
+┃ 💀 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹: HELL CORE ACTIVATED
+┃ 👑 𝗢𝘄𝗻𝗲𝗿: ☠️ 𝕋𝔸𝕐𝕐𝔸𝔹 𝔼𝕏ℙ𝕃𝕆𝕀𝕋𝕊 ☠️
+┃ ⚙️ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻: 1.0.0 [𝗛𝗲𝗹𝗹 𝗕𝘂𝗶𝗹𝗱]
+┃ ⏳ 𝗨𝗽𝘁𝗶𝗺𝗲: ${uptimeStr}
+┃ 📅 𝗗𝗮𝘁𝗲: ${date}
+┃ 🕒 𝗧𝗶𝗺𝗲: ${time}
+┃ 📌 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀: 222+ 𝗟𝗼𝗮𝗱𝗲𝗱
+┃ 🧠 𝗠𝗲𝗻𝘂𝘀: 16+ 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝗶𝗲𝘀
+┃ 📱 𝗗𝗲𝘃𝗶𝗰𝗲: ANDROID-HELLCORE 🔥
+╰━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 `
 
 global.menu = `
