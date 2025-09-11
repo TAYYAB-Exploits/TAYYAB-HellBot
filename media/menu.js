@@ -20,7 +20,7 @@ const statusBox = `
 ┃ 🔥 Mode: PRIVATE | FULL POWER
 ┃ 💀 Status: HELL PROTOCOL ACTIVE
 ┃ 👑 Owner: 𝕋𝔸𝕐𝕐𝔸𝔹 ☠️
-┃ ⚡ Version: 6.6.6 (Hell Build)
+┃ ⚡ Version: 1.0.0 (Hell Build)
 ┃ ⏳ Uptime: ${uptimeStr}
 ┃ 📅 Date: ${date}
 ┃ 🕒 Time: ${time}
