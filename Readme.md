@@ -32,7 +32,7 @@ Whether you want **auto typing, media download, group management**, or just **fu
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-📹 Video Tutorials
+## 📹 Video Tutorials
 
 [![Watch Video](https://img.shields.io/badge/Watch%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/4EK99IE4lTE)
 
@@ -85,7 +85,7 @@ node --watch index.js
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-📹 Video Tutorials
+## 📹 Video Tutorials
 
 [![Watch Video](https://img.shields.io/badge/Watch%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/4EK99IE4lTE)
 
@@ -95,7 +95,7 @@ node --watch index.js
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-🌐 Social Media
+## 🌐 Social Media
 
 Follow Tayyab Exploits for updates, tips, and more bots:
 
@@ -109,7 +109,7 @@ Instagram: Tayyab ExploitZ IG
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-📂 Media Folder
+## 📂 Media Folder
 
 All images, icons, and media files are in the media/ folder.
 Example: media/HELL.jpg is used as the bot banner shown above.
@@ -117,7 +117,7 @@ Example: media/HELL.jpg is used as the bot banner shown above.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-📝 Menus in TAYYAB HELL-BOT
+## 📝 Menus in TAYYAB HELL-BOT
 
 Here are all menus included in the bot, with full command coverage (222+ commands):
 
@@ -146,7 +146,7 @@ Anime menu
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-💻 Supported Platforms
+## 💻 Supported Platforms
 
 Termux (Android)
 
@@ -172,7 +172,7 @@ Supports auto-reload for continuous uptime.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-📝 Disclaimer
+## 📝 Disclaimer
 
 This bot is meant for educational and testing purposes.
 
@@ -184,7 +184,7 @@ Use at your own risk.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-❤️ Support & Contributions
+## ❤️ Support & Contributions
 
 Star ⭐ the repo if you like it.
 
