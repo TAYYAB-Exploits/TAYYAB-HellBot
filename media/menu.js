@@ -33,7 +33,7 @@ global.menu = `
 ${statusBox}
 ╔═══❖•⊰ *TAYYAB HELL-MD ALL MENU* ⊱•❖═══╗
 ║◈ .menu
-║◈ .menuowner
+║◈ .ownermenu
 ║◈ .downloadmenu
 ║◈ .groupmenu
 ║◈ .automenu
