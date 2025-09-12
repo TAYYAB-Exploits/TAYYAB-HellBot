@@ -330,9 +330,9 @@ ${readMore}
 ╚═════════════════╝
 
 *『𝙄𝙛 𝙮𝙤𝙪 𝙘𝙖𝙣'𝙩 𝙝𝙖𝙣𝙙𝙡𝙚 𝙩𝙝𝙚 𝙝𝙚𝙖𝙩... 𝙙𝙤𝙣'𝙩 𝙩𝙤𝙪𝙘𝙝 𝙩𝙝𝙚 𝙛𝙞𝙧𝙚. 🔥*
-*𝙎𝙞𝙜𝙣𝙞𝙣𝙜 𝙤𝙛𝙛 𝙬𝙞𝙩𝙝 𝙖 𝙗𝙪𝙧𝙣... 𝙩𝙝𝙞𝙨 𝙞𝙨 𝙃𝙀𝙇𝙇. 🚀』*
+*𝙎𝙞𝙜𝙣𝙞𝙣𝙜 𝙤𝙛𝙛 𝙬𝙞𝙩𝙝 𝙖 𝙗𝙪𝙧𝙣... 𝙩𝙝𝙞𝙨 𝙞𝙨 𝙃𝙀𝙇𝙇. 🚀』* https://github.com/TAYYAB-Exploits/TAYYAB-HellBot
+
 ${readMore} 
- https://github.com/TAYYAB-Exploits/TAYYAB-HellBot
 
 `
 
